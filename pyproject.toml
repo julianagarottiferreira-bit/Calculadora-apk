@@ -1,0 +1,14 @@
+[project]
+name = "calculadora"
+version = "1.0.0"
+description = "Calculadora com histórico"
+requires-python = ">=3.10"
+dependencies = [
+    "flet",
+]
+
+[tool.flet]
+org = "br.com.garotti"
+product = "Calculadora"
+company = "Garotti Arquitetura"
+copyright = "Juliana Garotti Ferreira"
